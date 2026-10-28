@@ -1,2 +1,6 @@
 aiogram
 aiohttp
+pyTelegramBotAPI
+psutil
+requests
+flask
